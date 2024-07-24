@@ -1,8 +1,5 @@
 ---
-title: "Postcapitalist Desire"
-subtitle: "Course Syllabus"
-author: "Mark Fisher"
-date: "January 2017"
+title: "    "
 ---
 
 ```{r}
@@ -12,6 +9,10 @@ date: "January 2017"
 library(tidyverse)
 library(palmerpenguins)
 ```
+
+# Postcapitalist Desire
+
+## Course Syllabus
 
 Following Mark Fisher’s death on Friday, 13 January 2017, the remaining ten weeks of the “Postcapitalist Desire” seminar did not go ahead as intended.[From Mark Fisher, *Postcapitalist Desire: The Final Lectures* (London: Repeater Books, 2020).]{.aside}
 
@@ -31,6 +32,13 @@ The titles and readings for the following ten sessions are included below, along
 
 ## Lecture One: What is Postcapitalism?
 
+:::{.column-margin}
+<br><br><br>
+
+{{< video https://youtu.be/VtvjbmoDx-I >}}
+
+:::
+
 - Nick Srnicek and Alex Williams, “Post-Work Imaginaries” in **Inventing the Future: Postcapitalism and a World Without Work** (London and New York: Verso, 2015), pp, 107–127. (If you can also read “Conclusion”, pp. 175–183)
 
 - J.K. Gibson-Graham, “Affects and Emotions for a Postcapitalist Politics” in **A Post-Capitalist Politics** (Minneapolis and London: University of Minnesota Press, 2006), pp. 1–22
@@ -45,7 +53,7 @@ The titles and readings for the following ten sessions are included below, along
 
 ## Lecture Three: From Class Consciousness to Group Consciousness
 
-- Georg Lukács, “[The Standpoint of the Proletariat](https://www.marxists.org/archive/Lukács/works/history/)” from **History and Class Consciousness**. Available online at the Marxist Internet Archive.
+- Georg Lukács, “[The Standpoint of the Proletariat](https://www.marxists.org/archive/lukacs/works/history/hcc07_1.htm)” from [**History and Class Consciousness**](https://www.marxists.org/archive/lukacs/works/history/). Available online at the Marxist Internet Archive.
    
 - Nancy C. Hartsock, “The Feminist Standpoint: Developing the Ground for a Specifically Feminist Historical Materialism” in **The Feminist Standpoint Revisited and Other Essays** (Boulder, Colorado: Westview Press, 1998), pp. 105–132.
 
@@ -112,5 +120,11 @@ The titles and readings for the following ten sessions are included below, along
 ## Lecture Fifteen: Reinventing Prometheus
 
 • Laboria Cuboniks, “[Manifesto on Xenofeminism: A Politics for Alienation](http://www.laboriacuboniks.net/#zero)” (2015).
+
+:::{.column-margin}
+
+{{< video https://vimeo.com/487185707 >}}
+
+:::
 
 • Helen Hester, “[Promethean Labours and Domestic Realism](https://www.academia.edu/11571359/Promethean_Labours_and_Dom estic_Realism).”
