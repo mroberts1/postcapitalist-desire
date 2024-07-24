@@ -22,7 +22,6 @@ format:
       body-width: 600px
       #margin-width: 300px
       #gutter-width: 2em
-  PrettyPDF-pdf: default
 lightbox: 
   match: auto
 fig-responsive: true
