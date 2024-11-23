@@ -1,37 +1,5 @@
 project:
-  type: 
-    website
-  
-format: 
-  html: 
-    toc: false
-    # toc-depth: 3
-    # toc-location: right
-    # toc-title: '   '
-    theme: 
-      light: ember.scss
-      dark: [ember.scss, slate]
-    css: custom.scss
-    # fontsize: 1em
-    linestretch: 1.5
-    smooth-scroll: true
-    background-color: "#EFEDE5"
-    self-contained: true
-    grid: 
-      #sidebar-width: 300px
-      body-width: 600px
-      #margin-width: 300px
-      #gutter-width: 2em
-  PrettyPDF-pdf: default
-lightbox: 
-  match: auto
-fig-responsive: true
-link-external-icon: false
-link-external-newwindow: true
-image-alt: " "
-execute:
-  freeze: auto
-footnotes-hover: true
-# bibliography: references.bib
-reference-location: document
-citation-location: document
+  type: website
+  output-dir: docs
+  resources:
+    - postcapitalist-desire.pdf

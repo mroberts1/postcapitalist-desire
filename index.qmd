@@ -1,5 +1,21 @@
 ---
-title: "    "
+title: "Postcapitalist Desire"
+subtitle: "Course Syllabus"
+date: "`r Sys.Date()`"
+author: "Mark Fisher"
+format:
+    html: 
+      self-contained: true
+      grid: 
+        sidebar-width: 350px
+        margin-width: 350px
+        body-width: 600px
+    pdf: default
+execute: 
+  echo: fenced
+reference-location: margin
+citation-location: margin
+# bibliography: skeleton.bib
 ---
 
 ```{r}
@@ -9,10 +25,6 @@ title: "    "
 library(tidyverse)
 library(palmerpenguins)
 ```
-
-# Postcapitalist Desire
-
-## Course Syllabus
 
 Following Mark Fisher’s death on Friday, 13 January 2017, the remaining ten weeks of the “Postcapitalist Desire” seminar did not go ahead as intended.[From Mark Fisher, *Postcapitalist Desire: The Final Lectures* (London: Repeater Books, 2020).]{.aside}
 
