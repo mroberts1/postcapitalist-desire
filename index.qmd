@@ -1,8 +1,8 @@
 ---
 title: "Postcapitalist Desire"
 subtitle: "Course Syllabus"
-date: "`r Sys.Date()`"
-author: "Mark Fisher"
+#date: "`r Sys.Date()`"
+#author: "Mark Fisher"
 format:
     html: 
       self-contained: true
@@ -11,8 +11,8 @@ format:
         margin-width: 350px
         body-width: 600px
     pdf: default
-execute: 
-  echo: fenced
+#execute: 
+#  echo: fenced
 reference-location: margin
 citation-location: margin
 # bibliography: skeleton.bib
