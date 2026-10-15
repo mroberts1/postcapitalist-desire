@@ -1,8 +1,10 @@
 /*-- scss:rules --*/
 
+@font-face { font-family:"Paper Mono";src:url("fonts/PaperMono-VF.woff2") format("woff2");font-weight:100 800;font-style:normal;font-display:swap }
+
 * { margin:0;padding:0;text-decoration:none;box-sizing:border-box;color:#000 }
 /*-- html { background-image:url(../media/icon/halftone.gif);background-repeat:repeat } --*/
-body { background:#fff;font-family:serif;font-size:16px;overflow-x:hidden }
+body { background:#fff;font-family:'Paper Mono',ui-monospace,SFMono-Regular,Menlo,monospace;font-size:16px;overflow-x:hidden }
 body > *, body main > *, main figure > div > *, main p, main q, main cite, main pre { margin-bottom:30px }
 body .right { float:right }
 body a.self, body a.parent { font-style:italic }
@@ -35,7 +37,7 @@ main figure:first-child figcaption { padding-left:30px }
 main p { line-height:160% }
 main sup { line-height:12px }
 main ::selection { background-color:#72dec2;color:#000;text-decoration:none }
-main q { font-family:serif;font-size:18px;font-style:italic;display:block;max-width:400px }
+main q { font-family:'Paper Mono',ui-monospace,SFMono-Regular,Menlo,monospace;font-size:18px;font-style:italic;display:block;max-width:400px }
 main img, main svg { max-width:100%;display:inline-block;margin:0 0 25px }
 main pre { overflow:auto;background:#efefef;padding:10px;font-size:80% }
 main pre code, main pre i { color:#888 }
