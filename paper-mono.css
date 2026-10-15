@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Paper Mono";
+  src: url("fonts/PaperMono-VF.woff2") format("woff2");
+  font-weight: 100 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+body, h1, h2, h3, h4, h5, h6, .title, .subtitle, .quarto-title-meta, .aside, .footnote-ref, blockquote, caption, figcaption {
+  font-family: "Paper Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}

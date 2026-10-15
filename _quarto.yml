@@ -3,3 +3,6 @@ project:
   output-dir: docs
   resources:
     - postcapitalist-desire.pdf
+format:
+  html:
+    css: paper-mono.css
